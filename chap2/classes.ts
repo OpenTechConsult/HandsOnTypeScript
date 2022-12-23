@@ -1,5 +1,5 @@
 class Person {
-    constructor(private msg: string) {}
+    constructor(private readonly msg: string) {}
     speak() {
         console.log(this.msg)
     }
