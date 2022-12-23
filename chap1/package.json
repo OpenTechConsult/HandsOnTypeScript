@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
